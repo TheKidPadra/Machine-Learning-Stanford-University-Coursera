@@ -45,23 +45,7 @@ Upon completion of this Specialization, you will possess the skills to:
 
 --------------------------------------------------------------------------------------------------------------
 
-## Certificate
 
-[Machine Learning by Stanford University (Final Certificate)](https://coursera.org/share/cc2fa4aa9e8771417eac7a0515b480cd)
-
---------------------------------------------------------------------------------------------------------------
-
-## References
-1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
-2. [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
-3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
-
-----------------------------------------------------------------------------------------------------------------
- 
-## 📝 License
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT),which covers the terms and conditions for its use.
- 
------------------------------------------------------------------------------------------------------------------
 
 
 
