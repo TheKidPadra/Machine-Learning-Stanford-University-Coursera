@@ -1,23 +1,4 @@
-# Machine-Learning-Stanford-University-Coursera
 
--------------------------------------------------------------------------------------------
-
-<p align="center"><img width="auto" src="https://github.com/TheKidPadra/Machine-Learning-Stanford-University-Coursera/blob/main/Assets/banner.png" /></p>
-
--------------------------------------------------------------------------------------------
-
-
-Presented herein are my solutions to the programming assignments and quizzes for the [Machine Learning (ML)](https://www.coursera.org/learn/machine-learning) course offered by [Stanford University](https://www.stanford.edu/) on [Coursera](https://www.coursera.org), instructed by the esteemed [Andrew Ng](https://www.andrewng.org/). Upon successful completion of this course, a comprehensive understanding of various ML algorithms can be acquired. The projects were implemented using both Matlab and Python programming languages, with both implementations available in this repository, accompanied by the corresponding source codes in their respective formats. I encourage attempting to solve the assignments independently at first, but should any challenges arise, you are welcome to refer to the provided code.
-
-
-## Table of contents
-
-* About this Course
-* What You Will Learn
-* Applied Learning Project
-* Certificate
-* References
-* License
 
 ## About this Course
 
