@@ -21,14 +21,7 @@ Presented herein are my solutions to the programming assignments and quizzes for
 
 ## About this Course
 
-This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
 
-## What You Will Learn
-
-- Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
-- Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods
-- Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection
-- Build recommender systems with a collaborative filtering approach & a content-based deep learning method & build a deep reinforcement learning model
 
 -------------
 ## Applied Learning Project
